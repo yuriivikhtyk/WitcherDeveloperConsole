@@ -1,3 +1,18 @@
+### dm_spawnitem it_ingr_XXX
+
+Recomended ingredients: (
+055, 071, 051, 
+053, 060, 158,
+052, 069, 073,
+054, 070, 168,
+061, 072, 063,
+067, 059, 057
+)
+
+
+
+
+
 153 Abomination Lymph
 113 Albar's Crystals
 029 Alchemical Paste
