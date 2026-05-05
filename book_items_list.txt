@@ -1,3 +1,8 @@
+### dm_spawnitem it_scroll_XXX 
+
+Receipts (101-118)
+Adding information about monsters, plants, minerals, ingredients (301-333)
+
 302 A description of the Vodyanoi or the Fishpeople
 213 A guide to Vizima
 332 A small Book of Minerals
